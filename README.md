@@ -1,4 +1,6 @@
-# Senior-capstone
+# Senior Capstone
+
+Made for the class: **CSC 495 - Senior Capstone**
 
 Hey!
 Welcome to my capstone program!
