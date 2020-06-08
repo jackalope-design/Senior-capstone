@@ -29,4 +29,4 @@ How to use the software:
 5) The resulting image file will be named "[folder-name] img.png" and placed in the parent directory
 
 The program should produce something like this:
-![Test Image 2](“ex.png”)
+!(ex.png)
