@@ -1,0 +1,13 @@
+,Full name,Did the program produce an artistic composition from your code?,"If you selected yes on the previous question, How was your satisfaction with the composition(s) created by the program?",How would you rate the usability of the program's GUI?,How would you rate your experience installing the software?,What did you like about the program?,What did you think could have been improved with the program? ,What would you like to see in future iterations of the program? ,"Bottom line, this program was..."
+,REDACTED,Yes,8,10,7,I liked how the art was customizable,The program should be made into a java executable so that the CLI is no longer needed,"The program should produce more detail, possibly using variables",8
+,REDACTED,Yes,8,9,10,It was able to create very interesting abstract art using only the raw text of a .java file,More colors and shapes,More interactivity,9
+,REDACTED,Yes,10,9,10,Ease of directory picking.  Very straight forward!,"Explain what the grayed out options were, how to activate them, and how they effect the program at hand.",Error messages for when things break. ,10
+,REDACTED,Yes,10,7,10,I like that you can choose different color schemes,I think it will be great if the program can choose different color schemes without exiting,Displaying a warning message when there's no variables in the chosen file,8
+,REDACTED,Yes,10,8,10,The artistic styles,"Comment acceptanceyes, it's awesome",More functionality and more language support,10
+,REDACTED,Yes,7,8,6,I like how it visualized my code,I wish it was more interesting ,More colors. I'm an introductory level programmer so I only understand so much of this.,7
+,REDACTED,Yes,8,7,10,The visualization was really creative. The option to choose color schemes and the layout was creative as well.  ,Some real time feedback based on the choices I had made would make it easier for me to understand what was going on. It was a bit confusing on the first run. ,There are a few things that comes to mind right now. First thing that comes to mind is having an option to interact with the artwork. Some hover mechanics where I could relate the artwork segment and the block of code. Real time update of the artwork based on the control would also be nice. Customizing the color schemes would also be nice. ,8
+,REDACTED,Yes,9,6,7,I like the colors and shapes,make it a little simpler to use,more options and support for other code types,9
+,REDACTED,Yes,10,10,10,The idea is very interesting and it's cool to see a visual representation of my code!,Just explain a bit more about what is being represented by the end result.,More Color Palletes,10
+,,,,,,,,,
+,,,Avg: ,Avg: ,Avg: ,,,,Avg: 
+,,,8.75,8,8.75,,,,8.777777778
