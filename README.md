@@ -28,5 +28,7 @@ How to use the software:
 
 5) The resulting image file will be named "[folder-name] img.png" and placed in the parent directory
 
+*Attached to this reposotory is the critisism collected by my peers and test files. 
+
 The program should produce something like this:
 ![img](ex.png)
